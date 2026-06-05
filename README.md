@@ -328,3 +328,4 @@ A website that helps you grow and learn!
                     <p>This study bundle has been carefully adapted for you regarding <strong>${topic}</strong> inside your <strong>${subject}</strong> course curriculum written fluently in <strong>${lang}</strong>.</p>
                     <p class="font-bold text-emerald-800 pt-2">🔑 Key Concepts:</p>
                     <ul c
+/settings/pages
